@@ -22,7 +22,7 @@ changes
         git push origin --delete VERSION NAME
 
     To delete local tags
-        git tag -d VERSION NAME
+        git tag -d VERSION NAMEe
 
 
 ![Version Control Task2](1_biIy42Cn4Bnu0IkpUW1Zew.png)

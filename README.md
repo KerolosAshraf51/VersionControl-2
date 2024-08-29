@@ -21,8 +21,8 @@ changes
     To delete remote tag
         git push origin --delete VERSION NAME
 
-    To delete local tags
-        git tag -d VERSION NAMEe
+    To delete local Taags
+        git tag -d VERSION NAME
 
 
 ![Version Control Task2](1_biIy42Cn4Bnu0IkpUW1Zew.png)
